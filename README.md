@@ -1,5 +1,6 @@
 # - 👋 Hi, I’m Esraa 
     -  Native Android Mobile App Developer : Java-Kotlin .
+<img src="/designs_1.jpg" alt="Alt text">    
 # - 👋My UpWork:
       https://www.upwork.com/freelancers/~01b430fcce04364da7
       
@@ -9,7 +10,7 @@
       
 # -  📫 To Get Tutorials For Beginners:
       https://www.esoapps.com/
-      <img src="designs_1.jpg" alt="Alt text">
+      
 
 <!-- - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
