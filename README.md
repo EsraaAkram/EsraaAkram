@@ -10,12 +10,12 @@
       https://www.linkedin.com/in/esraaakram/
       
 
-<p float="left">
+<!-- <p float="left">
   <img src="/eco_1.jpg " alt="Alt text"   width="120" height="250">   
   <img src="/eco_2.jpg " alt="Alt text"   width="120" height="250">   
   <img src="/eco_3.jpg " alt="Alt text"   width="120" height="250">   
 </p>
-
+ -->
       
 # -  📫 To Get Tutorials For Beginners:
       https://www.esoapps.com/
