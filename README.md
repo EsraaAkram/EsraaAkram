@@ -1,20 +1,17 @@
 # - 👋 Hi, I’m Esraa 
-    -  Native Android Mobile App Developer : Java-Kotlin .
-
-# - 💬 Ask me about Android, Mobile Development
+    - 💬 Native Android Mobile App Developer : Java-Kotlin .
 # - 👋My UpWork:
       https://www.upwork.com/freelancers/~01b430fcce04364da7
 
 
+# - 📫 reach me through mail? esraaakram@esoapps.com
 
-# - 📝 I regularly write articles on esoapps.com
-# - 📫 How to reach me through mail? esraaakram@esoapps.com
+# - 👀 Linkedin:
+      https://www.linkedin.com/in/esraaakram/
 
 <img src="/designs_1.jpg" alt="Alt text">    
 
 
-# - 👀 Linkedin:
-      https://www.linkedin.com/in/esraaakram/
       
 
 <!-- <p float="left">
