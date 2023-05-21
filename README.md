@@ -1,5 +1,5 @@
 # - 👋 Hi, I’m Esraa 
-    - 💬 Native Android Mobile App Developer : Java-Kotlin .
+    - 💬 Mobile App Developer : Java-Kotlin- Jetpack Compose (Native Android and Flutter) .
 # - 👋My UpWork:
       https://www.upwork.com/freelancers/~01b430fcce04364da7
 
