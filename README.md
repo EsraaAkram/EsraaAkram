@@ -4,7 +4,7 @@
       https://www.upwork.com/freelancers/~01b430fcce04364da7
 
 
-# - 📫 reach me through mail? esraaakram@esoapps.com
+
 
 # - 👀 Linkedin:
       https://www.linkedin.com/in/esraaakram/
