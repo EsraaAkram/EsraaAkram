@@ -1,13 +1,40 @@
 # - 👋 Hi, I’m Esraa 
-    - 💬 Mobile App Developer : Java-Kotlin- Jetpack Compose (Native Android and Flutter) .
-# - 👋My UpWork:
-      https://www.upwork.com/freelancers/~01b430fcce04364da7
+    - 💬 Mobile Developer with 6 years of experience in building high-quality mobile applications. I specialize in Kotlin and Java, and cross platform development using Flutter.
+# - 👋Contact Me:
+      Upwork: https://www.upwork.com/freelancers/~01b430fcce04364da7
+      Linkedin: https://www.linkedin.com/in/esraaakram/
 
+# - 👋𝐒𝐤𝐢𝐥𝐥𝐬:
+✔Android Development: using both Kotlin and java.
 
+✔UI/UX Design: Xml and Jetpack compose and following Material Design principles.
 
+✔Bind Views: Data Binding,view Binding.
 
-# - 👀 Linkedin:
-      https://www.linkedin.com/in/esraaakram/
+✔Concurrency: CoroutInes , Flows, RxJava.
+
+✔Networking and RESTfulAPIs: Retrofit. Volly, http
+
+✔Background services: Using android services and Work manager api. 
+
+✔Save Data: SQLite ,RoomDb,shared preference and datastore.
+
+✔Firebase: Auth,Fcm, database realtime, firestore, crashlytics, analytics
+
+✔Architecture Patterns: MVVM ,MVI ,MVC ,Clean Architecture 
+
+✔Dependency Injection: (Dagger/Hilt)
+
+✔Android Image Loading:Glide/Picasso/coil 
+
+✔Testing: Unit Testing,Integration Testing and Ui testing.
+
+✔Modularization, Navigation components and Android Jetpack libraries
+
+✔Version control: Git, Github and bitbucket.
+
+✔Cross-Platform Development: Flutter/Dart.
+
 
 <img src="/designs_1.jpg" alt="Alt text">    
 
