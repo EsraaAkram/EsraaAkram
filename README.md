@@ -1,9 +1,16 @@
-# - 👋 Hi, I’m Esraa 
+# - 👋 Hi, I’m Esraa Akram
     - 💬 Mobile Developer with 6 years of experience in building high-quality mobile applications.
-    - Specialized in Kotlin and Java, and cross platform development using Flutter.
+    Specialized in Kotlin and Java, and cross platform development using Flutter.
+
+      
 # - 👋Contact Me:
       Upwork: https://www.upwork.com/freelancers/~01b430fcce04364da7
       Linkedin: https://www.linkedin.com/in/esraaakram/
+      Email: esraaakram2025@gmail.com
+
+# -  📫 know more about me:
+      https://www.esoapps.com/
+
 
 # - 👋𝐒𝐤𝐢𝐥𝐥𝐬:
 ✔Android Development: using both Kotlin and java.
@@ -37,9 +44,18 @@
 ✔Cross-Platform Development: Flutter/Dart.
 
 
-<img src="/designs_1.jpg" alt="Alt text">    
+
+<img src="/image_original.png" alt="Alt text">  
+
+<img src="/image_original2.png" alt="Alt text">  
+
+<img src="/image_original3.png" alt="Alt text">  
 
 
+<img src="/image_original4.png" alt="Alt text">  
+
+<!--<img src="/designs_1.jpg" alt="Alt text">     -->
+  
       
 
 <!-- <p float="left">
@@ -49,8 +65,7 @@
 </p>
  -->
       
-# -  📫 :
-      https://www.esoapps.com/
+
       
 
 <!-- - 🌱 I’m currently learning ...
