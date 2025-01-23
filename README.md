@@ -1,5 +1,6 @@
 # - 👋 Hi, I’m Esraa 
-    - 💬 Mobile Developer with 6 years of experience in building high-quality mobile applications. I specialize in Kotlin and Java, and cross platform development using Flutter.
+    - 💬 Mobile Developer with 6 years of experience in building high-quality mobile applications.
+    - Specialized in Kotlin and Java, and cross platform development using Flutter.
 # - 👋Contact Me:
       Upwork: https://www.upwork.com/freelancers/~01b430fcce04364da7
       Linkedin: https://www.linkedin.com/in/esraaakram/
